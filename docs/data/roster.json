@@ -1,0 +1,53 @@
+{
+  "updated": "2026-11-27",
+  "sample": true,
+  "note": "示範資料：目前只收錄已在《報導者觀測站》頁面上確認過的民意代表。完整名單需由官方資料（立法院開放資料、中選會選舉資料庫）產生。",
+  "cities": [
+    {
+      "name": "臺北市",
+      "kind": "直轄市",
+      "groups": [
+        {
+          "role": "立法委員",
+          "districts": [
+            {
+              "name": "第 8 選區",
+              "members": [
+                {
+                  "name": "賴士葆",
+                  "party": "中國國民黨",
+                  "term": "第 11 屆立法委員",
+                  "twreporter": "https://lawmaker.twreporter.org/congress/lawmaker/lai-shyh-bao"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "高雄市",
+      "kind": "直轄市",
+      "groups": [
+        {
+          "role": "市議員",
+          "districts": [
+            {
+              "name": "第 7 選區",
+              "areas": ["三民區"],
+              "members": [
+                {
+                  "name": "何權峰",
+                  "party": "民主進步黨",
+                  "term": "第 4 屆高雄市議員",
+                  "twreporter": "https://lawmaker.twreporter.org/council/kaohsiung/lawmaker/ho-chuan-feng-kaohsiung",
+                  "official": "https://www.kcc.gov.tw/MemberInfo_New.aspx?n=39&sms=9028&msn=2204"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
