@@ -1,7 +1,7 @@
 {
   "updated": "2026-11-27",
   "sample": true,
-  "note": "示範資料：目前只收錄已在《報導者觀測站》頁面上確認過的民意代表。完整名單需由官方資料（立法院開放資料、中選會選舉資料庫）產生。",
+  "note": "部分名單：目前收錄臺北市第 8 選區立委，以及高雄市議員第 7、9 選區。其他縣市與選區陸續補上。",
   "cities": [
     {
       "name": "臺北市",
@@ -34,14 +34,91 @@
           "districts": [
             {
               "name": "第 7 選區",
-              "areas": ["三民區"],
+              "areas": [
+                "三民區"
+              ],
               "members": [
+                {
+                  "name": "康裕成",
+                  "party": "民主進步黨",
+                  "term": "第 4 屆高雄市議員",
+                  "title": "議長"
+                },
                 {
                   "name": "何權峰",
                   "party": "民主進步黨",
                   "term": "第 4 屆高雄市議員",
                   "twreporter": "https://lawmaker.twreporter.org/council/kaohsiung/lawmaker/ho-chuan-feng-kaohsiung",
                   "official": "https://www.kcc.gov.tw/MemberInfo_New.aspx?n=39&sms=9028&msn=2204"
+                },
+                {
+                  "name": "鄭孟洳",
+                  "party": "民主進步黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "黃柏霖",
+                  "party": "中國國民黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "黃香菽",
+                  "party": "中國國民黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "曾俊傑",
+                  "party": "無黨籍",
+                  "term": "第 4 屆高雄市議員",
+                  "title": "副議長"
+                },
+                {
+                  "name": "張博洋",
+                  "party": "無黨籍",
+                  "term": "第 4 屆高雄市議員"
+                }
+              ]
+            },
+            {
+              "name": "第 9 選區",
+              "areas": [
+                "鳳山區"
+              ],
+              "members": [
+                {
+                  "name": "陳慧文",
+                  "party": "民主進步黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "林智鴻",
+                  "party": "民主進步黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "張漢忠",
+                  "party": "民主進步黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "李雅靜",
+                  "party": "中國國民黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "鍾易仲",
+                  "party": "中國國民黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "劉德林",
+                  "party": "中國國民黨",
+                  "term": "第 4 屆高雄市議員"
+                },
+                {
+                  "name": "鄭安秝",
+                  "party": "中國國民黨",
+                  "term": "第 4 屆高雄市議員"
                 }
               ]
             }
