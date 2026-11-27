@@ -121,7 +121,7 @@
     for (const m of members) {
       const card = document.createElement("article");
       card.className = "card";
-      const h = document.createElement("h2"); h.textContent = m.name;
+      const h = document.createElement("h2"); h.textContent = m.title ? m.name + "（" + m.title + "）" : m.name;
       const meta = document.createElement("p"); meta.className = "meta";
       meta.textContent = [m.party, city().name + " " + group().role + " " + d.name + (d.areas ? "（" + d.areas.join("、") + "）" : ""), m.term]
         .filter(Boolean).join("・");
